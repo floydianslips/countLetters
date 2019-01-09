@@ -11,3 +11,5 @@ function countLetters(string) {
 return finalLetters;
 }
 console.log(countLetters(args));
+
+//worked with @ringringlemurpants
